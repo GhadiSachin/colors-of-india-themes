@@ -1,0 +1,123 @@
+{
+  "name": "Karnataka - Sandalwood State",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1614",
+    "editor.foreground": "#f5e8d8",
+    "activityBar.background": "#C19A6B",
+    "activityBar.foreground": "#ffffff",
+    "activityBarBadge.background": "#FFD700",
+    "activityBarBadge.foreground": "#000000",
+    "sideBar.background": "#252525",
+    "sideBar.foreground": "#f5e8d8",
+    "sideBarTitle.foreground": "#FFD700",
+    "statusBar.background": "#C19A6B",
+    "statusBar.foreground": "#ffffff",
+    "titleBar.activeBackground": "#C19A6B",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#3c3c3c",
+    "titleBar.inactiveForeground": "#888888",
+    "editorLineNumber.foreground": "#858585",
+    "editorLineNumber.activeForeground": "#FFD700",
+    "editorCursor.foreground": "#8B008B",
+    "editor.selectionBackground": "#C19A6B40",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "tab.activeBackground": "#1a1614",
+    "tab.activeForeground": "#FFD700",
+    "tab.inactiveBackground": "#2d2d2d",
+    "tab.inactiveForeground": "#888888",
+    "tab.border": "#1e1e1e",
+    "terminal.background": "#1a1614",
+    "terminal.foreground": "#f5e8d8",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#e74856",
+    "terminal.ansiGreen": "#8B008B",
+    "terminal.ansiYellow": "#FFD700",
+    "terminal.ansiBlue": "#3b8eea",
+    "terminal.ansiMagenta": "#b140aa",
+    "terminal.ansiCyan": "#29b8db",
+    "terminal.ansiWhite": "#e5e5e5",
+    "button.background": "#8B008B",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#C19A6B",
+    "list.activeSelectionBackground": "#C19A6B",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.hoverBackground": "#C19A6B30",
+    "list.focusBackground": "#C19A6B50"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6A9955"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#8B008B"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#FFD700"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other"
+      ],
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#4EC9B0"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#B5CEA8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#f5e8d8"
+      }
+    }
+  ]
+}

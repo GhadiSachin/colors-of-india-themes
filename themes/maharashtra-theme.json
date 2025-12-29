@@ -1,0 +1,123 @@
+{
+  "name": "Maharashtra - Land of Warriors",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#1a1612",
+    "editor.foreground": "#f0e6d2",
+    "activityBar.background": "#FF6600",
+    "activityBar.foreground": "#ffffff",
+    "activityBarBadge.background": "#FFB300",
+    "activityBarBadge.foreground": "#000000",
+    "sideBar.background": "#252525",
+    "sideBar.foreground": "#f0e6d2",
+    "sideBarTitle.foreground": "#FFB300",
+    "statusBar.background": "#FF6600",
+    "statusBar.foreground": "#ffffff",
+    "titleBar.activeBackground": "#FF6600",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#3c3c3c",
+    "titleBar.inactiveForeground": "#888888",
+    "editorLineNumber.foreground": "#858585",
+    "editorLineNumber.activeForeground": "#FFB300",
+    "editorCursor.foreground": "#8B4513",
+    "editor.selectionBackground": "#FF660040",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "tab.activeBackground": "#1a1612",
+    "tab.activeForeground": "#FFB300",
+    "tab.inactiveBackground": "#2d2d2d",
+    "tab.inactiveForeground": "#888888",
+    "tab.border": "#1e1e1e",
+    "terminal.background": "#1a1612",
+    "terminal.foreground": "#f0e6d2",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#e74856",
+    "terminal.ansiGreen": "#8B4513",
+    "terminal.ansiYellow": "#FFB300",
+    "terminal.ansiBlue": "#3b8eea",
+    "terminal.ansiMagenta": "#b140aa",
+    "terminal.ansiCyan": "#29b8db",
+    "terminal.ansiWhite": "#e5e5e5",
+    "button.background": "#8B4513",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#FF6600",
+    "list.activeSelectionBackground": "#FF6600",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.hoverBackground": "#FF660030",
+    "list.focusBackground": "#FF660050"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6A9955"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#8B4513"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#FFB300"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other"
+      ],
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#4EC9B0"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#B5CEA8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#f0e6d2"
+      }
+    }
+  ]
+}

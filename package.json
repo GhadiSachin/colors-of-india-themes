@@ -1,0 +1,88 @@
+{
+  "name": "colors-of-india-themes",
+  "displayName": "Colors of India - State Themes",
+  "description": "A collection of VS Code themes representing the vibrant colors and culture of Indian states -Theme by Proud Indian Sachin Ghadi",
+  "version": "1.0.0",
+  "publisher": "ProudIndian",
+   "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "files": [
+    "themes/**",
+    "images/**",
+    "icon.png",
+    "README.md",
+    "INSTALLATION.md",
+    "CHANGELOG.md"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kerala - God's Own Country",
+        "uiTheme": "vs-dark",
+        "path": "./themes/kerala-theme.json"
+      },
+      {
+        "label": "Rajasthan - Land of Kings",
+        "uiTheme": "vs-dark",
+        "path": "./themes/rajasthan-theme.json"
+      },
+      {
+        "label": "Tamil Nadu - Temple Land",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tamil_nadu-theme.json"
+      },
+      {
+        "label": "Maharashtra - Land of Warriors",
+        "uiTheme": "vs-dark",
+        "path": "./themes/maharashtra-theme.json"
+      },
+      {
+        "label": "Punjab - Land of Five Rivers",
+        "uiTheme": "vs-dark",
+        "path": "./themes/punjab-theme.json"
+      },
+      {
+        "label": "West Bengal - Cultural Hub",
+        "uiTheme": "vs-dark",
+        "path": "./themes/west_bengal-theme.json"
+      },
+      {
+        "label": "Gujarat - Vibrant Culture",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gujarat-theme.json"
+      },
+      {
+        "label": "Karnataka - Sandalwood State",
+        "uiTheme": "vs-dark",
+        "path": "./themes/karnataka-theme.json"
+      },
+      {
+        "label": "Assam - Tea Gardens",
+        "uiTheme": "vs-dark",
+        "path": "./themes/assam-theme.json"
+      },
+      {
+        "label": "Goa - Beach Paradise",
+        "uiTheme": "vs-dark",
+        "path": "./themes/goa-theme.json"
+      }
+    ]
+  },
+  "keywords": [
+    "theme",
+    "color-theme",
+    "india",
+    "indian",
+    "cultural",
+    "dark theme"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/colors-of-india-themes"
+  }
+}

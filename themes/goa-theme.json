@@ -1,0 +1,123 @@
+{
+  "name": "Goa - Beach Paradise",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#16181a",
+    "editor.foreground": "#e8f5f0",
+    "activityBar.background": "#008B8B",
+    "activityBar.foreground": "#ffffff",
+    "activityBarBadge.background": "#F4A460",
+    "activityBarBadge.foreground": "#000000",
+    "sideBar.background": "#252525",
+    "sideBar.foreground": "#e8f5f0",
+    "sideBarTitle.foreground": "#F4A460",
+    "statusBar.background": "#008B8B",
+    "statusBar.foreground": "#ffffff",
+    "titleBar.activeBackground": "#008B8B",
+    "titleBar.activeForeground": "#ffffff",
+    "titleBar.inactiveBackground": "#3c3c3c",
+    "titleBar.inactiveForeground": "#888888",
+    "editorLineNumber.foreground": "#858585",
+    "editorLineNumber.activeForeground": "#F4A460",
+    "editorCursor.foreground": "#FF6347",
+    "editor.selectionBackground": "#008B8B40",
+    "editor.lineHighlightBackground": "#2a2a2a",
+    "tab.activeBackground": "#16181a",
+    "tab.activeForeground": "#F4A460",
+    "tab.inactiveBackground": "#2d2d2d",
+    "tab.inactiveForeground": "#888888",
+    "tab.border": "#1e1e1e",
+    "terminal.background": "#16181a",
+    "terminal.foreground": "#e8f5f0",
+    "terminal.ansiBlack": "#000000",
+    "terminal.ansiRed": "#e74856",
+    "terminal.ansiGreen": "#FF6347",
+    "terminal.ansiYellow": "#F4A460",
+    "terminal.ansiBlue": "#3b8eea",
+    "terminal.ansiMagenta": "#b140aa",
+    "terminal.ansiCyan": "#29b8db",
+    "terminal.ansiWhite": "#e5e5e5",
+    "button.background": "#FF6347",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#008B8B",
+    "list.activeSelectionBackground": "#008B8B",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.hoverBackground": "#008B8B30",
+    "list.focusBackground": "#008B8B50"
+  },
+  "tokenColors": [
+    {
+      "scope": [
+        "comment",
+        "punctuation.definition.comment"
+      ],
+      "settings": {
+        "fontStyle": "italic",
+        "foreground": "#6A9955"
+      }
+    },
+    {
+      "scope": [
+        "keyword",
+        "storage.type",
+        "storage.modifier"
+      ],
+      "settings": {
+        "foreground": "#FF6347"
+      }
+    },
+    {
+      "scope": [
+        "string",
+        "string.quoted"
+      ],
+      "settings": {
+        "foreground": "#F4A460"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#DCDCAA"
+      }
+    },
+    {
+      "scope": [
+        "variable",
+        "variable.other"
+      ],
+      "settings": {
+        "foreground": "#9CDCFE"
+      }
+    },
+    {
+      "scope": [
+        "entity.name.type",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#4EC9B0"
+      }
+    },
+    {
+      "scope": [
+        "constant.numeric",
+        "constant.language"
+      ],
+      "settings": {
+        "foreground": "#B5CEA8"
+      }
+    },
+    {
+      "scope": [
+        "keyword.operator"
+      ],
+      "settings": {
+        "foreground": "#e8f5f0"
+      }
+    }
+  ]
+}
