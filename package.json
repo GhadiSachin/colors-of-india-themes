@@ -1,8 +1,8 @@
 {
   "name": "colors-of-india-themes",
   "displayName": "Colors of India - State Themes",
-  "description": "A collection of VS Code themes representing the vibrant colors and culture of Indian states -Theme by Proud Indian Sachin Ghadi",
-  "version": "1.0.0",
+  "description": "Theme by Proud Indian Sachin Ghadi -A collection of VS Code themes representing the vibrant colors and culture of Indian states ",
+  "version": "1.0.1",
   "publisher": "ProudIndian",
    "icon": "icon.png",
   "engines": {
@@ -83,6 +83,6 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/colors-of-india-themes"
+    "url": "https://github.com/GhadiSachin/colors-of-india-themes"
   }
 }
